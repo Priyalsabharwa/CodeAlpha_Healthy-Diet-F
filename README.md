@@ -1,45 +1,50 @@
-# 🥗 FAQ Chatbot - Healthy Diet Assistant
 
-Welcome to the **FAQ Chatbot**, a friendly assistant that helps users explore diet plans, healthy tips, and fitness routines — all through simple questions and smart answers.
 
-This chatbot is designed using **Streamlit** and lets users:
-- Enter their name and age once
-- Choose from options like weight loss, weight gain, healthy tips, or diet plans
-- Get personalized diet/exercise suggestions
-- Track how many days they're committing to their plan
-- See a thank-you screen and option to start again
+# 🥗 FAQ Chatbot – Healthy Diet Assistant
+
+Welcome to the **FAQ Chatbot**, your friendly assistant that helps users explore personalized diet plans, daily health tips, and fitness routines — all through a clean interface and smart question flow.
+
+This interactive chatbot is built using **Streamlit** and designed for anyone who wants a simple, guided way to manage a healthier lifestyle.
 
 ---
 
-## 💡 Features
+## ✨ Features
 
-- 🔹 Beautiful interface with background images and styled fonts
-- 🔹 Takes your name and age only once
-- 🔹 Smart plan suggestions for different goals
-- 🔹 Tracks user streaks (days committed)
-- 🔹 Includes thank-you page + restart option
+- ✅ Enter your **name** and **age** only once
+- 🎯 Choose your goal: **Weight Loss**, **Weight Gain**, **Healthy Tips**, or **Diet Plan**
+- 🍽️ Get personalized **diet** or **exercise** suggestions
+- 🔁 Set a daily commitment with **streak tracking**
+- 🎉 View a beautiful **Thank You screen** and restart anytime
+- 🌿 Fully responsive, intuitive UI with a vibrant healthy theme
 
 ---
 
 ## 🛠 Tech Stack
 
-| Component   | Tech Used       |
-|-------------|-----------------|
-| Language    | Python           |
-| Framework   | Streamlit        |
-| Styling     | HTML & CSS in Streamlit |
-| Data Saving | Pandas + CSV     |
+| Component    | Technology          |
+|--------------|----------------------|
+| Language     | Python               |
+| Framework    | Streamlit            |
+| UI Styling   | HTML + CSS (inline) |
+| Data Logging | Pandas + CSV         |
 
 ---
 
 ## 📸 Preview
 
-> *Screenshot of your chatbot page here — upload one if possible!*
+![Chatbot Screenshot](chatbot_screenshot.png) <!-- Replace with your actual uploaded screenshot image path -->
 
 ---
 
 ## 🚀 How to Run Locally
 
-1. Clone the repo  
+Follow these steps to run this project on your local machine:
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/Priyalsabharwa/CodeAlpha_HealthyDietChatbot.git
+cd CodeAlpha_HealthyDietChatbot
+
 
 
